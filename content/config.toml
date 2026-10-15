@@ -8,7 +8,7 @@ last_updated = "October 15, 2026"
 name = "Yike Hu"
 title = "PhD Student"
 institution = "The Hong Kong University of Science and Technology"
-avatar = "/PRISM/me.jpg"
+avatar = "/public/me.jpg"
 
 [social]
 email = ""
