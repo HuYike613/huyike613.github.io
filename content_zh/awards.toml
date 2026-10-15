@@ -1,0 +1,57 @@
+type = "card"
+title = "奖项与荣誉"
+description = "学术研究、奖学金及其他荣誉。"
+
+[[items]]
+title = "最佳论文奖"
+subtitle = "The International Conference on Building and Simulation (BAS 2026)"
+date = "2026"
+content = "荣获建筑与模拟国际会议最佳论文奖。"
+
+[[items]]
+title = "香港博士研究生奖学金计划（HKPFS）"
+subtitle = "香港特别行政区"
+date = "2025"
+content = "Hong Kong PhD Fellowship Scheme."
+
+[[items]]
+title = "天津市优秀硕士学位论文"
+subtitle = "天津市"
+date = "2024"
+content = "获评天津市优秀硕士学位论文。"
+
+[[items]]
+title = "天津大学优秀硕士学位论文"
+subtitle = "天津大学"
+date = "2024"
+content = "获评天津大学优秀硕士学位论文。"
+
+[[items]]
+title = "研究生国家奖学金"
+subtitle = "中华人民共和国教育部"
+date = "2023"
+content = "获得研究生国家奖学金。"
+
+[[items]]
+title = "天津大学研究生一等奖学金"
+subtitle = "天津大学"
+date = "2023"
+content = "获得研究生一等奖学金。"
+
+[[items]]
+title = "天津大学优秀毕业生"
+subtitle = "天津大学"
+date = "2021"
+content = "获评天津大学优秀毕业生。"
+
+[[items]]
+title = "钱正英奖学金"
+subtitle = "天津大学"
+date = "2020"
+content = "获得钱正英奖学金。"
+
+[[items]]
+title = "天津市政府奖学金"
+subtitle = "天津市"
+date = "2019"
+content = "获得天津市政府奖学金。"

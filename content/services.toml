@@ -1,0 +1,33 @@
+type = "card"
+title = "Academic Services"
+description = "Academic peer review and professional service."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Engineering Applications of Artificial Intelligence"
+content = "Reviewing manuscripts for the journal."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Advanced Engineering Informatics"
+content = "Reviewing manuscripts for the journal."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Journal of Rock Mechanics and Geotechnical Engineering"
+content = "Reviewing manuscripts for the journal."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Image and Vision Computing"
+content = "Reviewing manuscripts for the journal."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Energy and Buildings"
+content = "Reviewing manuscripts for the journal."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Heritage Science"
+content = "Reviewing manuscripts for the journal."

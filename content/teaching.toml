@@ -1,0 +1,17 @@
+type = "card"
+title = "Teaching"
+description = "Courses I have assisted with."
+
+[[items]]
+title = "CIVL-3310 Structural Analysis"
+subtitle = "Teaching Assistant"
+date = "2025"
+content = "Structural Analysis"
+tags = ["Undergraduate", "Civil Engineering"]
+
+[[items]]
+title = "CIVL-2210 Statics"
+subtitle = "Teaching Assistant"
+date = "2026"
+content = "Statics"
+tags = ["Undergraduate", "Civil Engineering"]

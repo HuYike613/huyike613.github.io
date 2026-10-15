@@ -1,0 +1,74 @@
+[site]
+title = "胡奕可"
+description = "香港科技大学土木及环境工程博士生，研究方向包括三维重建、无人机外立面检测、计算机视觉与多模态感知。"
+favicon = "/favicon.svg"
+last_updated = "October 15, 2026"
+
+[author]
+name = "胡奕可"
+title = "博士生"
+institution = "香港科技大学"
+avatar = "/PRISM/me.jpg"
+
+[social]
+email = ""
+location = "Hong Kong"
+location_url = "https://www.google.com/maps"
+location_details = []
+google_scholar = "https://scholar.google.com/citations?user=6RiK-hAAAAAJ&hl=zh-CN"
+orcid = ""
+github = "https://github.com/HuYike613"
+linkedin = "https://www.linkedin.com/in/yike-hu-7874b83b7/"
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "教学"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "服务"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

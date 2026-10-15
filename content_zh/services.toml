@@ -1,0 +1,33 @@
+type = "card"
+title = "学术服务"
+description = "学术期刊审稿及专业服务。"
+
+[[items]]
+title = "期刊审稿人"
+subtitle = "Engineering Applications of Artificial Intelligence"
+content = "参与学术论文同行评审。"
+
+[[items]]
+title = "期刊审稿人"
+subtitle = "Advanced Engineering Informatics"
+content = "参与学术论文同行评审。"
+
+[[items]]
+title = "期刊审稿人"
+subtitle = "Journal of Rock Mechanics and Geotechnical Engineering"
+content = "参与学术论文同行评审。"
+
+[[items]]
+title = "期刊审稿人"
+subtitle = "Image and Vision Computing"
+content = "参与学术论文同行评审。"
+
+[[items]]
+title = "期刊审稿人"
+subtitle = "Energy and Buildings"
+content = "参与学术论文同行评审。"
+
+[[items]]
+title = "期刊审稿人"
+subtitle = "Heritage Science"
+content = "参与学术论文同行评审。"

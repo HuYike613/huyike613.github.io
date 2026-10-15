@@ -1,0 +1,69 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Hong Kong PhD Fellowship Scheme (HKPFS)"
+subtitle = "Research Grants Council, Hong Kong"
+date = "2025"
+content = "Awarded the Hong Kong PhD Fellowship in recognition of academic excellence and research potential."
+
+[[items]]
+title = "Best Paper Award"
+subtitle = "The International Conference on Building And Simulation (BAS 2026)"
+date = "2026"
+content = "Recognized for an outstanding research paper presented at BAS 2026."
+
+[[items]]
+title = "National Scholarship for Postgraduate Students"
+subtitle = "Ministry of Education of the People's Republic of China"
+date = "2023"
+content = "Awarded for outstanding academic performance and research achievements."
+
+[[items]]
+title = "First Prize Scholarship for Postgraduate Students"
+subtitle = "Tianjin University"
+date = "2023"
+content = "Recognized for academic excellence during postgraduate studies."
+
+[[items]]
+title = "Outstanding Student"
+subtitle = "Tianjin University"
+date = "2023"
+content = "Recognized for outstanding academic performance and overall student conduct."
+
+[[items]]
+title = "Excellent Student Cadre"
+subtitle = "Tianjin University"
+date = "2022"
+content = "Recognized for outstanding student leadership and service."
+
+[[items]]
+title = "Excellent Master's Thesis of Tianjin University"
+subtitle = "Tianjin University"
+date = "2025"
+content = "Awarded for the quality of the master's thesis."
+
+[[items]]
+title = "Tianjin Outstanding Master's Thesis"
+subtitle = "Tianjin Municipality"
+date = "2025"
+content = "Recognized for an outstanding master's thesis."
+
+[[items]]
+title = "Outstanding Graduate of Tianjin University"
+subtitle = "Tianjin University"
+date = "2021"
+content = "Awarded in recognition of outstanding undergraduate performance."
+
+[[items]]
+title = "Qian Zhengying Scholarship"
+subtitle = "Tianjin University"
+date = "2020"
+content = "Academic scholarship awarded during undergraduate studies."
+
+[[items]]
+title = "Tianjin Municipal Government Scholarship"
+subtitle = "Tianjin Municipal Government"
+date = "2019"
+content = "Scholarship awarded during undergraduate studies."
