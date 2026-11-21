@@ -1,5 +1,5 @@
 **The Hong Kong University of Science and Technology (HKUST)**  
-Ph.D. Student in Civil and Environmental Engineering  
+Ph.D. Student in Civil Engineering  
 February 2025 – Present
 
 **The Hong Kong University of Science and Technology (HKUST)**  
